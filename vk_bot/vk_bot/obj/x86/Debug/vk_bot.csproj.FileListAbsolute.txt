@@ -1,0 +1,35 @@
+C:\Users\rrr\AppData\Local\Temporary Projects\vk_bot\bin\Debug\vk_bot.exe
+C:\Users\rrr\AppData\Local\Temporary Projects\vk_bot\bin\Debug\vk_bot.pdb
+C:\Users\rrr\AppData\Local\Temporary Projects\vk_bot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rrr\AppData\Local\Temporary Projects\vk_bot\obj\x86\Debug\vk_bot.Form1.resources
+C:\Users\rrr\AppData\Local\Temporary Projects\vk_bot\obj\x86\Debug\vk_bot.Properties.Resources.resources
+C:\Users\rrr\AppData\Local\Temporary Projects\vk_bot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rrr\AppData\Local\Temporary Projects\vk_bot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rrr\AppData\Local\Temporary Projects\vk_bot\obj\x86\Debug\vk_bot.exe
+C:\Users\rrr\AppData\Local\Temporary Projects\vk_bot\obj\x86\Debug\vk_bot.pdb
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\obj\x86\Debug\vk_bot.exe
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\obj\x86\Debug\vk_bot.pdb
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\bin\Debug\vk_bot.exe
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\bin\Debug\vk_bot.pdb
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\obj\x86\Debug\vk_bot.Form1.resources
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\obj\x86\Debug\vk_bot.Properties.Resources.resources
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\obj\x86\Debug\vk_bot.AutoAnswerForm.resources
+C:\Users\rrr\documents\visual studio 2010\Projects\vk_bot\vk_bot\obj\x86\Debug\vk_bot.AutoMessageForm.resources
+C:\Users\User\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.exe
+C:\Users\User\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.pdb
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.exe
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.pdb
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\bin\Debug\vk_bot.exe
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\bin\Debug\vk_bot.pdb
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.csprojResolveAssemblyReference.cache
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.AutoAnswerForm.resources
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.AutoMessageForm.resources
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.Form1.resources
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.Properties.Resources.resources
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.csproj.GenerateResource.Cache
+C:\Users\Yaskevich\Desktop\vk_bot\vk_bot\obj\x86\Debug\vk_bot.sendphotoForm.resources
